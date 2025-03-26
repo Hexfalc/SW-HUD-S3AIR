@@ -1,0 +1,37 @@
+{
+  "Metadata":{
+               "Name": "Sonic World (Sonic Jam) HUD",
+               "UniqueID": "hexf-sjam-hud",
+               "Author": "HexFalc",
+               "Description": "Port of the HUD from Sonic World in Sonic Jam",
+               "URL": "",
+               "ModVersion": "1.0",
+               "GameVersion": "24.02.02.1",
+             },
+  "Settings":{
+          "List":[
+           {
+             "InternalName":"HF_JAMHUD_SCORE",
+             "DisplayName":"Score Counter",
+             "Variable":"HF_JAM_HUD_SCORE",
+             "DefaultValue":"0",
+             "Category":"HUD Options",
+             "Options":{
+                "0":"Disabled (Default)",
+                "1":"Enabled",
+             },
+           },
+           {
+             "InternalName":"HF_JAMHUD_SCORE_STYLE",
+             "DisplayName":"Score Counter Style",
+             "Variable":"HF_JAM_HUD_SCORE_STYLE",
+             "DefaultValue":"0",
+             "Category":"HUD Options",
+             "Options":{
+                "0":"HUD Counter (Default)",
+                "1":"Museum Name-Like",
+             },
+           }
+      ]
+  }
+}
