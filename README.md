@@ -17,6 +17,6 @@ Mednafen - Saturn Emulator, used to make pixel perfect screenshots of the game.
 Aseprite - Used to make a spritesheet out the game screenshots, and to make the custom sprites.
 
 Credits: 
-Hex Falc - Mod Creator and Sprite Ripper.
+Hex Falc - Mod Creator and Sprite Ripper.  
 SammyGoesHowdy - Inspiration (This mod was kinda inspired by his jam pause menu but I already had the idea for the mod even before that released).  
 Eukaryout - Creator of Sonic 3 Angel Island Revisited
