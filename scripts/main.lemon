@@ -133,7 +133,7 @@ function void RenderHUD()
 			HUD.drawSprite(show ? "jam_hud_text_rings" : "jam_hud_text_rings", baseX, py, renderQueue)
 			++renderQueue
 
-			HUD.drawSprite("jam_hud_char_colon", baseX + 0x40, baseY + 0x25, renderQueue)
+			HUD.drawSprite("jam_hud_char_colon", baseX + 0x40, py + 0x05, renderQueue)
 
 			u16 px = baseX + (!isBonusStage && Game.getSetting(SETTING_EXTENDED_HUD) ? 0x58 : 0x58)
 			for (u32 value = ring_counter;;)
