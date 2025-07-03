@@ -14,7 +14,7 @@ As an extra, the score counter can be renabled with two custom-made styles:
 
 Tools Used:  
 Mednafen - Saturn Emulator, used to make pixel perfect screenshots of the game.  
-Aseprite - Used to make a spritesheet out the game screenshots, and to make the custom sprites.
+Aseprite - Used to make a spritesheet out of the game screenshots, and to make the custom sprites.
 
 Credits: 
 Hex Falc - Mod Creator and Sprite Ripper.  
